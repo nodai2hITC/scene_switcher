@@ -51,6 +51,7 @@ module SceneSwitcher
           @file = nil
         end
       end
+      exit
     end
   end
 end
